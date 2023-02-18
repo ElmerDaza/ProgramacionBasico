@@ -13,3 +13,4 @@ Si estás interesado en aprender a programar, hay muchas rutas de aprendizaje qu
 En resumen, aprender a programar es una habilidad valiosa en el mundo laboral actual, y puede tener un impacto positivo en tus finanzas personales. Si estás buscando mejorar tus habilidades y tener más oportunidades en el mercado laboral, o simplemente quieres mejorar tu vida cotidiana, aprender a programar es una excelente opción. ¡No dudes en comenzar hoy mismo!
 
 Este curso es un exelente comienzo para tu aprendizaje.
+![comienza dando click aqui](https://medium.com/@elmerdazamindiola/curso-de-programación-básico-clase-1-c6e0829b8b14)
